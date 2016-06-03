@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Shantanu\\Desktop\\analytics_edge")
+setwd("\\home\\work\\analytics_edge")
 library(mice)
 library(Rcpp)
 data<-read.csv(file= "loans.csv")
